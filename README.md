@@ -1,2 +1,2 @@
-# Aura Icon Theme
-The default icon theme used in Aura OS.
+# Icons
+Icons designed for use in Auraia products and services.
