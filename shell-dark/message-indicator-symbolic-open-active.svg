@@ -1,0 +1,28 @@
+<svg width="1564" height="1564" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="c_29">
+   <path id="svg_1" d="m0,0l1564,0l0,1564l-1564,0l0,-1564z"/>
+  </clipPath>
+  <style type="text/css">
+   <![CDATA[
+
+.g0_29{
+}
+.g1_29{
+fill: #FFFFFF;
+}
+
+]]>
+  </style>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_2" clip-path="url(#c_29)">
+   <path id="svg_5" class="g1_29" d="m782.2,498.5c-72.6,0 -145.2,27.7 -200.6,83.1c-110.8,110.8 -110.8,290.4 0,401.2c110.8,110.8 290.4,110.8 401.2,0c110.8,-110.8 110.8,-290.4 0,-401.2c-55.4,-55.4 -128,-83.1 -200.6,-83.1zm0,51.7c59.4,0 118.8,22.7 164.1,68c90.6,90.6 90.6,237.5 0,328.1c-90.6,90.6 -237.5,90.6 -328.1,0c-90.6,-90.6 -90.6,-237.5 0,-328.1c45.3,-45.3 104.6,-68 164,-68z"/>
+  </g>
+ </g>
+</svg>
