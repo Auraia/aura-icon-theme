@@ -1,2 +1,2 @@
 # Icons
-Icons designed for use in Auraia products and services.
+A few custom-designed icons.
